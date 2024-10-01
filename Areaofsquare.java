@@ -10,7 +10,6 @@ public class Areaofsquare
             int res=side*side;
       System.out.println("Area of Square = "+res);
         
-
     }
     
 }
