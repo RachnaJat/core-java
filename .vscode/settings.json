@@ -1,0 +1,9 @@
+{
+    "jdk.runConfig.arguments": "cancel",
+    "json.format.keepLines": false,
+    "json.schemas": [
+     
+
+    ]
+      "java.compile.workspaceFolder": "${workspaceFolder}"
+}
